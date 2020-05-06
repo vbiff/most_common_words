@@ -2,6 +2,7 @@
 The pipeline for creating most common words list in Spanish
 
 Hello!
+
 I've made it to learn spanish!:)
 This program parses N amount of .txt Spanish texts from www.rulit.me website and then 
 analyze text and gives back most common N words.
