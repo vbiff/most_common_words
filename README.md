@@ -2,10 +2,16 @@
 The pipeline for creating most common words list in Spanish
 
 Hello!
-I made it learn spanish!:)
+I've made it to learn spanish!:)
 This program parses N amount of .txt Spanish texts from www.rulit.me website and then 
-analyze text and give back most common N words.
+analyze text and gives back most common N words.
 Besides result file, you will see words and counters in your terminal
+
+If you run by terminal you can provide number of words as an argument.
+
+Example:
+
+python3 pipeline_mcw.py 1000
 
 i've made 3 files:
 parser_file_from_link.py -  for parser
