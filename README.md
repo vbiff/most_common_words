@@ -6,7 +6,10 @@ Hello!
 I've made it to learn spanish!:)
 This program parses N amount of .txt Spanish texts from www.rulit.me website and then 
 analyze text and gives back most common N words.
-Besides result file, you will see words and counters in your terminal
+Program creates 2 folders in the directory where it is:
+output folder with all parsed text and some pics))
+result folder and .txt file with N words
+Besides result file, you will see words and counters in your terminal.
 
 If you run by terminal you can provide number of words as an argument.
 
