@@ -41,4 +41,4 @@ Send request to host
 parse data from webpage
 
 # import io, zipfile
-to uzip and get zipfile
+to unzip and get zipfile from link
