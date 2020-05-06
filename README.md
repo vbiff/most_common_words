@@ -21,24 +21,24 @@ pipeline_mcw - pipeline file
 
 Enjoy!
 
-I used next modules for words2
+#I used next modules for words_counter:
 
-import Collection -> Counter.most_common
-#This is to get most_common words
+#import Collection -> Counter.most_common
+This is to get most_common words
 
-import os
-# to work with OS and find all .txt in the folder
+#import os
+to work with OS and find all .txt in the folder
 
-import sys
-# for arguments from command line
+#import sys
+for arguments from command line
 
-I used modules for parser
+#I used modules for parser:
 
-requests
-# Send request to host
+#requests
+Send request to host
 
-beautifulsoup4
-# parse data from webpage
+#beautifulsoup4
+parse data from webpage
 
-import io, zipfile
-# to uzip and get zipfile
+#import io, zipfile
+to uzip and get zipfile
